@@ -7,3 +7,5 @@ O que vou aprender na Trybe:
 - CSS
 - JavaScript
 - React
+-Angular
+- Vue.js
