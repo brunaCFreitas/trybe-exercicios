@@ -1,4 +1,4 @@
-# DIA 1 - UNIX & BASH
+# DIA 1 - UNIX & BASH - Parte 1
 
 O objetivo deste dia foi apresentar o `sistema operacional UNIX`, além de entender e por em prática os `comandos utilizados no terminal`.
 
