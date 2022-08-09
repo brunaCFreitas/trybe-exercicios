@@ -6,8 +6,8 @@ Os tópicos abordados foram:
 
 1. Os principais componentes
 2. Arquivos e processos
-3. Estrutura de diretorios
+3. Estrutura de diretórios
 4. O que é terminal?
 5. Comandos executados no Shell
 
-Após os exercícios, foi possível navegar entre os diretórios, executar comandos para criar, manipular e remover arquivos e diretórios e também aplicar comandos que realizam buscas.
+Após a realização dos exercícios, foi possível navegar e executar comandos para criação, manipulação e remoção de arquivos e diretórios.
