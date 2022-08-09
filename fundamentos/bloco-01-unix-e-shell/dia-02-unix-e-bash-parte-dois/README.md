@@ -1,4 +1,4 @@
-# DIA 2 - UNIX & BASH
+# DIA 2 - UNIX & BASH - Parte 2
 
 O objetivo deste dia foi dar continuidade aos comandos aprendendo a tratar `inputs e outputs`. Realizar buscas utilizando o comando `find` e alterar `Níveis de Acesso no UNIX`.
 
