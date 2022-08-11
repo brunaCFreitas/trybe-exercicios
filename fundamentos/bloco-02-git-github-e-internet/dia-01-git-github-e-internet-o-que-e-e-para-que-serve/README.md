@@ -1,4 +1,4 @@
-# DIA 01 - O QUE É E PARA QUE SERVE
+# DIA 01 - GIT E GITHUB - O QUE É E PARA QUE SERVE
 
 Neste dia aprendemos sobre o uso do `Git`, um `sistema de controle de versão` amplamente utilizado no mundo do desenvolvimento de software.
 
