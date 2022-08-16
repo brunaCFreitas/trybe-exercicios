@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    background-color: antiquewhite;
+}
+body a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body a:hover{
+    text-decoration: underline;
+}
+
+#header {
+    text-align: center;
+    color: rgb(0, 51, 128);
+}
+
+h3 {
+    color: white;
+    background-color:rgb(0, 51, 128) ;
+    text-align: center;
+    font-size: 2em;
+}
+
+#nav {
+    background-color: rgb(7, 43, 160);
+    height: auto;
+   
+}
+
+#nav a {
+    text-decoration: none;
+    color: white;
+}
+
+#links-menu li {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+#article {
+    width: 90%;
+    margin: auto;
+    text-align: justify;
+    
+}
+
+#article p {
+    text-align: justify;
+    text-indent: 3em;
+}
+
+.img {
+    float: right;
+    margin-top: 100px;
+}
+
+#generation-text {
+    width: 50%;
+    height: 500px;
+    padding: 5px;
+    overflow: scroll;
+    background-color: rgb(240, 234, 227);
+}
+
+table, caption, th, td {
+    margin: 2% 18%;
+    border: 1px solid black;
+}
+#interesting {
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.img1 {
+    margin: auto;
+}
+
+.type {
+    background-color: rgb(107, 151, 231);
+}
+
+.feature {
+    background-color: white;
+}
+
+.title {
+    background-color: rgba(8, 8, 141, 0.932);
+    color: white;
+    padding: 5px;
+}
+
+aside {
+    width: 90%;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
