@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    margin: 0 20%;
+    background-color: rgb(238, 220, 196);
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.destaca-div {
+    padding: 10px;
+}
+
+.destaca-div:hover {
+    border: 3px solid aliceblue;
+}
+
+#cor-primaria:hover {
+    background-color: rgb(255, 63, 5);
+    color: aliceblue;
+}
+
+#cor-secundaria:hover {
+    background-color: rgb(247, 125, 11);
+}
+
+#cor-complementar {
+    font-size: 1.2em;
+    padding: 30px;
+}
+
+#cor-complementar:hover {
+    background-color: rgb(30, 128, 0);
+    color: aliceblue;
+}
+
+#cor-escura:hover {
+    background-color: rgb(80, 1, 1);
+    color: aliceblue;
+   
+}
+
+#cor-clara:hover {
+    background-color: rgb(202, 137, 137);
+}
+
+.impares {
+    font-style: italic;
+}
+
