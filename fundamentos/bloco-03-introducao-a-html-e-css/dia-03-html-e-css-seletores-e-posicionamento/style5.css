@@ -1,0 +1,67 @@
+.order-list {
+    background-color: rgb(253, 253, 132);
+}
+
+.par {
+    color: green;
+}
+
+.impar {
+    text-transform: uppercase;
+}
+
+h1, h3 {
+    color: red;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+h1 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+.destaque-azul {
+    color: blue;
+}
+
+.destaque-rosa {
+    background-color: pink;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#stackoverflow:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+#w3schools:hover {
+    font-weight: bold;
+    color: green;
+}
+
+#mdn:hover {
+    font-weight: bold;
+    color: black;
+}
+
+#devdocs:hover {
+    font-weight: bold;
+    color: rgb(251, 255, 0);
+    text-shadow: 1px 1px 1px black;
+}
+
+#trybe:hover {
+    font-weight: bold;
+    color: green;
+}
