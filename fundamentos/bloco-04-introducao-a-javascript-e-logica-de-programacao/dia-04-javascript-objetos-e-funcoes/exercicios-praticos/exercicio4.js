@@ -74,3 +74,4 @@ console.log(statusNumero(-2));
 console.log(statusNumero(0));
 console.log(eTriangulo(90, 45, 45));
 console.log(eTriangulo(90, 45, -45));
+
