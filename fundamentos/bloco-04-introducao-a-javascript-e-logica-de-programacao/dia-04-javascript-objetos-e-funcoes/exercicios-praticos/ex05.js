@@ -11,7 +11,7 @@ for(let numero of array) {
     }
 
     acumuladores[numero]++;
-    
+
     if(acumuladores[maiorValor] < acumuladores[numero]){
         maiorValor = numero;
     }
@@ -19,3 +19,4 @@ for(let numero of array) {
 
 console.log(maiorValor);
 console.log(acumuladores);
+
