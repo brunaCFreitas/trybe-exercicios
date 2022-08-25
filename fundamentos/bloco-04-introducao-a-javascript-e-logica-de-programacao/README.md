@@ -1,4 +1,4 @@
-# BLOCO 4 - INTRODUÇÃO À JAVASCRIPT E LÓGICA DE PROGRAMAÇÃO
+# BLOCO 04 - INTRODUÇÃO À JAVASCRIPT E LÓGICA DE PROGRAMAÇÃO
 
 Neste bloco aprendemos todos os conceitos iniciais de JavaScript.
 
