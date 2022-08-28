@@ -2,32 +2,37 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo - 1</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo - 1</title>
 </head>
 
 <body>
-    <header>
-        <h2 id="page-title">Título</h2>
-        <p class="paragrafos" id="paragraph">Dê uma cor para este parágrafo!</p>
-        <h4 id="subtitle">Subtítulo</h4>
-        <p class="paragrafos" id="second-paragraph">Segundo parágrafo!</p>
-    </header>
-    <script>
-        const paragraph = document.getElementById("paragraph");
-        paragraph.style.color = "red";
-        document.querySelector("#page-title").innerText = 'Interestelar';
-        document.querySelector('#paragraph').innerHTML = 'Não tenho criatividade!';
-        document.querySelector('#subtitle').innerText = 'Indicação do melhor filme';
-        const paragrafo = document.querySelector("#second-paragraph");
-        paragrafo.style.color = "blue";
-        const paragrafo1 = document.querySelectorAll('.paragrafos')[0];
-        paragrafo1.style.color= 'green';
-        const subTitulo = document.querySelector("h4");
-        subTitulo.style.color = 'red';
-    </script>
+  <header>
+    <h2 id="page-title">Título</h2>
+    <p class="paragrafos" id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p class="paragrafos" id="second-paragraph">Segundo parágrafo!</p>
+  </header>
+  <script>
+
+    const paragraph = document.getElementById("paragraph");
+    paragraph.style.color = "red";
+
+    // 1 - Recupere o elemento que contém o título da página e faça algo com ele,
+    // como alterá-lo para o nome do seu filme favorito.
+    const title = document.getElementById('page-title');
+    title.innerText = 'Interestelar';
+
+    // 2 - Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.
+    const secondParagraph = document.getElementById('second-paragraph');
+    secondParagraph.innerText = 'Filme sensacional de 2014.';
+
+    // 3 - Por fim, recupere o subtítulo e altere-o também.
+    const subtitle = document.getElementById('subtitle');
+    subtitle.innerText = 'Obrigada por ler até aqui.';
+  </script>
 </body>
 
 </html>
