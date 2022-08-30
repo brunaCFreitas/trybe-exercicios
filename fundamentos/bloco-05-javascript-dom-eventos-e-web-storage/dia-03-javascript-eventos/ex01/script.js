@@ -102,9 +102,26 @@ function displayHolidays() {
       if (getHolidays[index].style.backgroundColor === setNewColor) { //  Percorra o array de feriados e adicione as condições para troca de cor.
         getHolidays[index].style.backgroundColor = backgroundColor;
       } else {
-        getHolidays[index].style.backgroundColor = setNewColor; 
+        getHolidays[index].style.backgroundColor = setNewColor;
       }
     }
   });
 }
 displayHolidays();
+
+/* Exercício 4 - 
+Implemente uma função que crie dinamicamente um botão com o nome "Sexta-feira". Sua função deve receber como parâmetro a string "Sexta-feira".
+Adicione a esse botão o ID "btn-friday";
+Adicione esse botão como filho/filha da tag <div> com classe "buttons-container"
+*/
+// Crie a função e adicione variáveis para armazenar: o 'container' de botões, a criação de um botão e o id do botão.
+function createFridayButton(buttonName) {
+  let buttonContainer = document.querySelector('.buttons-container'); // armazena o container de botões
+  let newButton = document.createElement('button'); // cria um botão
+  let newButtonID = 'btn-friday'; // armazna o id do botão
+
+  newButton.innerHTML = buttonName;
+  newButton.id = newButtonID;
+  buttonContainer.appendChild(newButton); //adiciona o botão como filho do container de botões
+}
+createFridayButton('Sexta-feira');
