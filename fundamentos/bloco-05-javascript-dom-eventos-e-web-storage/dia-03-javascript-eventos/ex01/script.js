@@ -188,3 +188,21 @@ function newTaskSpan(task) {
   tasksContainer.appendChild(taskName); // Anexando a task como filha de taskContainer
 }
 newTaskSpan('Projeto');
+
+/* Exercício 8 -
+Implemente uma função que adicione uma legenda com cor para a tarefa.
+* Essa função deverá receber como parâmetro uma string ('cor') e criar dinamicamente um elemento de tag `<div>` com a classe `task`.
+O parâmetro cor deverá ser utilizado como cor de fundo da <div> criada.
+O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks".
+*/
+//  Crie a função que recebe uma cor por parâmetro.
+function newTaskDiv(color) {
+  // Recupere os elementos que tenham a classe my-tasks.
+  let tasksContainer = document.querySelector('.my-tasks'); 
+  let newTask = document.createElement('div'); // Crie uma div.
+
+  newTask.className = 'task'; // Adicionando className task à newTask
+  newTask.style.backgroundColor = color; // Adicionando a cor recebida por parametro como backgroundCol
+  tasksContainer.appendChild(newTask); // Adiciona newTask como filho de tasksContainer
+}
+newTaskDiv('green');
