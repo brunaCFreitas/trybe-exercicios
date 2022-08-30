@@ -33,11 +33,11 @@ function createDaysOfTheMonth() {
 
   //Crie um loop que popule a ul com nossa lista.
   for (let index = 0; index < decemberDaysList.length; index += 1) {
-    
+
     let day = decemberDaysList[index];
     let dayItem = document.createElement('li');
     dayItem.innerHTML = day; // Adicione o valor do dia atual para cada <li> criado.
-    
+
     if (day === 24 || day === 31) {
       // Caso o dia for 24 ou 31
       dayItem.className = 'day holiday'; // Atribua a classe 'day holiday' ao li criado
@@ -76,9 +76,35 @@ function createHolidayButton(buttonName) {
 
   newButton.innerHTML = buttonName;
   newButton.id = newButtonID;
-  
+
   //  Insira o botão no container selecionado e execute a função usando 'Feriados' como parâmetro.
   buttonContainer.appendChild(newButton);
 }
 
 createHolidayButton('Feriados');
+
+/* Exercicio 3 - 
+Implemente uma função que muda a cor de fundo dos dias que possuem a classe "holiday".
+Adicione ao botão "Feriados" um evento de "click" que altere a cor de fundo dos dias que possuem a classe "holiday"
+É interessante que esse botão possua também a lógica inversa. Ao ser clicado novamente, ele retorna à configuração inicial com a cor "rgb(238,238,238)".
+*/
+
+// Crie a função que será responsável por: selecionar todos os elementos com a classe 'holiday', selecionar o botão 'feriados' e adicionar variaveis para armazenar cores
+function displayHolidays() {
+  let getHolidayButton = document.querySelector('#btn-holiday'); // selecione o botão "Feriados";
+  let getHolidays = document.querySelectorAll('.holiday')// Seleciona todos os feriados como um array de elementos;
+  let backgroundColor = 'rgb(238,238,238)'; // armazena a cor da configuração inicial;
+  let setNewColor = 'white'; // armazena a nova cor que será utilizada ao pressionar o botão.
+
+  //  Adicione um escutador de eventos ao botão, esse escutador deve aguardar um clique.
+  getHolidayButton.addEventListener('click', function () {
+    for (let index = 0; index < getHolidays.length; index += 1) {
+      if (getHolidays[index].style.backgroundColor === setNewColor) { //  Percorra o array de feriados e adicione as condições para troca de cor.
+        getHolidays[index].style.backgroundColor = backgroundColor;
+      } else {
+        getHolidays[index].style.backgroundColor = setNewColor; 
+      }
+    }
+  });
+}
+displayHolidays();
