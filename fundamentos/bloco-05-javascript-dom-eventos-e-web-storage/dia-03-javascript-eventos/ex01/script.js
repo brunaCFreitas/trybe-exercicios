@@ -252,3 +252,43 @@ function setDayColor() {
 }
 setDayColor();
 
+/* Exercicio Bônus
+Vamos adicionar compromissos ao seu calendário?
+Implemente uma função que adiciona compromissos à lista "MEUS COMPROMISSOS"
+Ao digitar um compromisso na caixa de texto "COMPROMISSOS" e clicar no botão "ADICIONAR", o compromisso digitado deve ser adicionado à lista "MEUS COMPROMISSOS".
+Se nenhum caractere for inserido no campo input, a função deve retornar um alert com uma mensagem de erro ao clicar em "ADICIONAR".
+Ao pressionar a tecla "enter", o evento também deverá ser disparado.
+*/
+
+// Crie a função e grave os seletores da id task-input, btn-add e da classe task-list
+function addNewTask() {
+  let getInputField = document.querySelector('#task-input');
+  let addInputButton = document.querySelector('#btn-add');
+  let getTaskList = document.querySelector('.task-list');
+
+  //Insira um addEventListener para as variáveis addInputField e getInputField
+  addInputButton.addEventListener('click', function() {
+    if (getInputField.value.length > 0) {
+      let newLi = document.createElement('li');
+      newLi.innerText = getInputField.value;
+
+      getTaskList.appendChild(newLi);
+      getInputField.value = '';
+    } else {
+      alert('Error: Digite ao menos 1 caractere.');
+    }
+  });
+
+  //  Crie uma variável para validar a tecla pressionada e a quantidade de caracteres no evento do getInputField.
+  getInputField.addEventListener('keyup', function(event) {
+    if (event.key === 'Enter' && getInputField.value.length > 0) {
+      let newLi = document.createElement('li');
+      newLi.innerText = getInputField.value;
+
+      getTaskList.appendChild(newLi);
+      getInputField.value = '';
+    }
+  });
+}
+
+addNewTask();
