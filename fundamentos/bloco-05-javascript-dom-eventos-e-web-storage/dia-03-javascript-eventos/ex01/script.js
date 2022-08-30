@@ -125,3 +125,52 @@ function createFridayButton(buttonName) {
   buttonContainer.appendChild(newButton); //adiciona o botão como filho do container de botões
 }
 createFridayButton('Sexta-feira');
+
+/* Exercício 5 - 
+Implemente uma função que modifica o texto exibido nos dias que são Sexta-feira. Adicione ao botão "Sexta-feira" um evento de "click" e modifique o texto a ser exibido nos dias que são sextas-feiras.
+É interessante que esse botão possua também a lógica inversa. Ao ser clicado novamente, ele retorna à configuração inicial exibindo os dias.
+*/
+// Crie a função e dentro dela as variáveis para armazenar: o botão "Sexta-feira", um array de elementos com a classe friday, uma string que será exibida nos dias que são sextas-feiras.
+function displayFridays(fridaysArray) {
+  let getFridayButton = document.querySelector('#btn-friday');
+  let fridays = document.getElementsByClassName('friday');
+  let newFridayText = 'SEXTOU o/';
+
+  // Adicione um escutador de eventos ao botão, esse escutador deve aguardar um clique.
+  getFridayButton.addEventListener('click', function() {
+  for (let index = 0; index < fridays.length; index += 1) {
+    if (fridays[index].innerHTML !== newFridayText) {
+        fridays[index].innerHTML = newFridayText;
+        //caso o texto não tenha sido substituído, ao clicar no botão ele será substituido pelo novo texto;
+    } else {
+        fridays[index].innerHTML = fridaysArray[index];
+        //caso o texto já tenha sido substituído, ao clicar no botão ele volta ao texto padrão.
+      }
+    }
+  });
+}
+let decemberFridays = [ 4, 11, 18, 25 ];
+displayFridays(decemberFridays);
+
+/* Exercício 6 - 
+Implemente duas funções que criem um efeito de "zoom". Ao passar o ponteiro do mouse em um dia do mês no calendário, o texto desse dia deve aumentar e, quando o ponteiro do mouse sair do dia, o texto deve retornar ao tamanho original.
+*/
+// Crie duas funções, uma para cada ação do mouse
+// Crie uma variável que selecione o id days para ambas as funções
+function dayMouseOver() {
+  let days = document.querySelector('#days');
+  days.addEventListener('mouseover', function(event) {  // Adicione o addEventListener à variável days,
+    event.target.style.fontSize = '30px'; // Ele pega o evento alvo e altera o estilo de fontSize para 30px
+    event.target.style.fontWeight = '600'; // Ele pega o evento alvo e altera o estilo de fontWeight para 600
+  });
+}
+
+function dayMouseOut() {
+  let days = document.querySelector('#days');
+  days.addEventListener('mouseout', function(event) {
+    event.target.style.fontSize = '20px'; // Ele pega o evento alvo e altera o estilo de fontSize para 20px
+    event.target.style.fontWeight = '200'; // Ele pega o evento alvo e altera o estilo de fontWeight para 200
+  });
+}
+dayMouseOver();
+dayMouseOut();
