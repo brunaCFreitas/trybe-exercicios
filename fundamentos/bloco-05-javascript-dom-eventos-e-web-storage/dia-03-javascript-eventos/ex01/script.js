@@ -206,3 +206,49 @@ function newTaskDiv(color) {
   tasksContainer.appendChild(newTask); // Adiciona newTask como filho de tasksContainer
 }
 newTaskDiv('green');
+
+/* Exercício 9 -
+Implemente uma função que selecione uma tarefa.
+Adicione um evento que ao clicar no elemento com a tag <div> referente à cor da sua tarefa, atribua a esse elemento a classe task selected, ou seja, quando sua tarefa possuir a classe task selected ela estará selecionada.
+Ao clicar novamente no elemento, a sua classe deverá voltar a ser somente task, ou seja, essa tarefa está deixando de ser uma tarefa selecionada.
+*/
+
+// Crie uma função e dentro dela crie variáveis para armazenar: os elementos com a classe "task selected" e o elemento com o id "tasks".
+function setTaskClass() {
+  let selectedTask = document.getElementsByClassName('task selected');
+  let myTasks = document.querySelector('.task');
+  myTasks.addEventListener('click', function(event) { //  Insira um evento de click na variável myTasks
+    if (selectedTask.length === 0) {
+      event.target.className = 'task selected'; // Altere a classe do alvo
+    } else {
+      event.target.className = 'task';
+    }
+  });
+}
+setTaskClass();
+
+/* Exercício 10 - 
+Implemente uma função que atribua a cor da tarefa ao dia do calendário.
+Adicione um evento que, ao clicar em um dia do mês no calendário, atribua a esse dia a cor da legenda da sua tarefa selecionada.
+Ao clicar novamente no dia com a cor da legenda, a sua cor deverá voltar à configuração inicial rgb(119,119,119).
+*/
+// Crie a função e dentro dela salve os seletores em variáveis distintas:
+function setDayColor() {
+  let selectedTask = document.getElementsByClassName('task selected'); // Retorna um array com todos os elementos com a classe "task selected"
+  let days = document.querySelector('#days'); // Seleciona a primeira ul com id "days"
+  let taskDiv = document.querySelector('.task'); // Seleciona o primeiro elemento com a classe "task"
+  let taskColor = taskDiv.style.backgroundColor; // Salva o Background Color da classe task na variável "taskColor"
+   
+  // Atribua um evento à variável days que armazena a <ul>, usando addEventListener
+  days.addEventListener('click', function(event){  // Para pegar o evento alvo, precisamos declarar o evento como parâmetro da função
+    let eventTargetColor = event.target.style.color;
+    if (selectedTask.length > 0 && eventTargetColor !== taskColor) {
+      let color = selectedTask[0].style.backgroundColor; // Pega a cor de fundo do primeiro elemento salvo na variável "selectedTask" e salva na variável "color"
+      event.target.style.color = color; // atribui a cor salva na variável "color" ao evento alvo
+    } else if (eventTargetColor === taskColor) {
+      event.target.style.color = 'rgb(119,119,119)';  // Altera a cor de fundo do evento alvo para "rgb(119, 119, 119)"
+    }
+  });
+}
+setDayColor();
+
