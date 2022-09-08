@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ppt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício 1</title>
+  <style>
+    body {
+      margin: 20px;
+    }
+
+    #login {
+      margin-bottom: 10px;
+    }
+
+    #submit {
+      margin-left: 20px;
+    }
+
+
+  </style>
+</head>
+
+<body>
+  <form action="GET">
+    <div id="login"> 
+      <label for="email-user">E-mail:</label>
+      <input type="email" name="email-user" id="email-user" placeholder="Digite seu e-mail" required autocomplete="off" autofocus>
+      <label for="password">Senha:</label>
+      <input type="password" name="password" id="password" placeholder="Digite sua senha" required>
+    </div>
+
+    <div id="login-actions">
+      <input type="checkbox" name="is-reminder" id="reminder">
+      <label for="reminder"><em>Lembre-me</em></label>
+      <button type="submit" id="submit">Entrar</button>
+    </div>
+  </form>
+</body>
+
+</html>
