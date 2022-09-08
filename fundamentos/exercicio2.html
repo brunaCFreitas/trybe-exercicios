@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício 2</title>
+  <style>
+    body {
+      text-align: center;
+    }
+
+    a {
+      margin-left: 20px;
+    }
+
+    li {
+      line-height: 1.5em;
+      margin-bottom: 15px;
+    }
+
+    #exercises {
+      margin-bottom: 20px;
+    }
+
+    #instructions {
+      text-align: justify;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Exercício 2 - prevent default</h1>
+  </header>
+  <main>
+    <div id="exercises">
+      <label for="input-text">Input Text:</label>
+      <input type="text" name="texto" id="input-text">
+      <input type="checkbox" name="checkbox" id="input-checkbox">
+      <label for="input-checkbox">Input Checkbox</label>
+      <a href="https://www.betrybe.com/" id="href">Link</a>
+    </div>
+    <hr>
+    <div id="instructions">
+      <h2>Exercícios</h2>
+      <ol>
+        <li>Adicione um evento click no elemento a que possui o id href. Na função do evento, implemente o método
+          .preventDefault() para previnir o comportamento padrão do elemento. Ou seja, ao clicar no link, nada deve
+          acontecer.</li>
+        <li> Adicione um evento click no elemento checkbox que possui o id input-checkbox. Na função do evento,
+          implemente o método .preventDefault() para previnir o comportamento padrão do elemento. Ou seja, ao clicar na
+          caixinha, nada deve acontecer.</li>
+        <li> Adicione um evento keypress no elemento input type="text" que possui o id input-text. Na função do evento,
+          implemente o método .preventDefault() de forma que somente o caractere a (letra 'a' minúscula) possa ser
+          digitado na caixinha. (dica: para capturar a tecla digitada, utilize o event.key)</li>
+      </ol>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>
