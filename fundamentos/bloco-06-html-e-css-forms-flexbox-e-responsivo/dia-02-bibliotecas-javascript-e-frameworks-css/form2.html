@@ -9,6 +9,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js"></script>
 </head>
 
 <body>
@@ -52,15 +53,15 @@
     </div>
 
     <div class="container mb-3 border">
-      <label class="form-label" for="textarea-1">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+      <label class="form-label" for="why">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
         TrybeTrip?</label>
-      <textarea class="form-control" name="textearea" id="textarea-1" cols="60" rows="10"
+      <textarea class="form-control" name="textearea" id="why" cols="60" rows="10"
         placeholder="Digite aqui a sua resposta" maxlength="500" wrap="hard"></textarea>
     </div>
 
     <div class="container form-check mb-3 border">
-      <label class="form-label" for="input-data">Qual a melhor data para realizar sua viagem?</label>
-      <input type="date" name="data" id="input-data">
+      <label class="form-label" for="date">Qual a melhor data para realizar sua viagem?</label>
+      <input class="form-control" type="text" name="data" id="date" data-validate-field="date">
     </div>
 
     <div class="border">
@@ -80,12 +81,16 @@
     </div>
 
     <div class="container mb-3 border text-center">
-      <button class="btn btn-success" type="submit" id="button-submit" disabled>Participar do concurso TrybeTrip</button>
+      <button class="btn btn-success" type="submit" id="btn-submit" disabled>Participar do concurso
+        TrybeTrip</button>
       <button class="btn btn-danger" type="submit" id="button-clear">Apagar</button>
     </div>
 
   </form>
+  <script src="moment.js"></script>
+  <script src="pikaday.js"></script>
   <script src="script.js"></script>
+
 </body>
 
 </html>
