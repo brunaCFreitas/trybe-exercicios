@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(211, 233, 211);
+  font-weight: 600;
+  color: white;
+}
+
+h1 {
+  padding: 20px;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.header {
+  margin-top: 50px;
+}
+
+.border {
+  width: 80%;
+  margin: 20px auto 0 auto; 
+  padding: 10px;
+  background-color: rgb(65, 151, 65);
+}
