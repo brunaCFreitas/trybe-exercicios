@@ -1,4 +1,4 @@
-# DIA 03 - INTRODUÇÃO - CSS FLEXBOX
+# DIA 03 - INTRODUÇÃO - CSS FLEXBOX - PARTE 1
 
 Neste dia iniciamos os estudos de como  utilizar o CSS Flexbox, que é um módulo de layout que torna fácil o desenvolvimento de estruturas responsivas.
 
