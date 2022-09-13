@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox - Flex Flow</title>
+    <style>
+      .box {
+        color: #9069EF;
+        background-color: rgb(243, 243, 243);
+        border: 2px solid #232525;
+        font-size: 50px;
+        height: 60px;
+        margin: 10px 5px;
+        text-align: center;
+        width: 30%;
+      }
+
+      .box-container.linha {
+        background-color: #0fa36b;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+      }
+
+      .box-container.linha-reversa {
+        background-color: #0fa36b;
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+      }
+
+      .box-container.linha-reversa.wrap-reverse {
+        background-color: #0fa36b;
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap-reverse;
+      }
+
+      .box-container.coluna {
+        background-color: #0fa36b;
+        display: flex;
+        flex-flow: column nowrap;
+       
+      }
+
+      .box-container.coluna-reversa {
+        background-color: #0fa36b;
+        display: flex;
+        flex-flow: column-reverse wrap;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div class="box-container linha">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+    <br>
+    <div class="box-container linha-reversa">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+    <br>
+    <div class="box-container linha-reversa wrap-reverse">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+    <br>
+    <div class="box-container coluna">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+    <br>
+    <div class="box-container coluna-reversa">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+  </body>
+</html>
