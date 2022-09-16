@@ -1,0 +1,3 @@
+# BLOCO 7 - INTRODUÇÃO À JAVASCRIPT ES6 E TESTES UNITÁRIOS
+
+Bloco em curso.
