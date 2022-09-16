@@ -24,7 +24,7 @@ console.log(sum2(2, '3'));
 
 const verifyIsNumber = (value1, value2) => {
   if (typeof value1 !== 'number' || typeof value2 !== 'number') {
-    throw new Error('OS valores devem ser númericos');
+    throw new Error('ERRO! OS valores devem ser númericos');
   }
 };
 
