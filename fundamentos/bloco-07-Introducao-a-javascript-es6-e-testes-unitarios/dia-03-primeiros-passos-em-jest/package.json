@@ -1,0 +1,15 @@
+{
+  "name": "dia-03-primeiros-passos-em-jest",
+  "version": "1.0.0",
+  "description": "Neste dia aprendemos sobre testes unitários e também sobre como testar em pequenos passos.",
+  "main": "assert.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
