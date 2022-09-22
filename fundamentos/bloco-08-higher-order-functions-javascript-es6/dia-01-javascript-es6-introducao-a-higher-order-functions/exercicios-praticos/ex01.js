@@ -1,3 +1,5 @@
+// Exercício Nova Pessoa Contratada
+
 const createPerson = (name) => {
   const person = {
     nameFull: name,
