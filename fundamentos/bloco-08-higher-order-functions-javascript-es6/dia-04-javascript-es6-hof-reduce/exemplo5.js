@@ -78,15 +78,10 @@ const estudantes = [
 
 
 console.table(estudantes)
-
-const pegaMelhorMateria = (acumulador, materia) => {
-  if (acumulador.nota > materia.nota) return acumulador;
-  return materia;
-};
-
+ 
 const relatorio = (estudantes) => estudantes.map((estudante) => ({
   name: estudante.nome,
-  materia: estudante.materias.reduce(pegaMelhorMateria).name,
+  materia: estudante.materias.reduce((acumulador, materia) =>  (acumulador.nota > materia.nota) ? acumulador : materia).name,
 }));
 
 console.log(relatorio(estudantes));
