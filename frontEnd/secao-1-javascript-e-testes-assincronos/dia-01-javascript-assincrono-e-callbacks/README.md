@@ -1,0 +1,3 @@
+# Dia 01 - JAVASCRIPT ASSÍNCRONO E CALLBACKS
+
+Dia em andamento.
