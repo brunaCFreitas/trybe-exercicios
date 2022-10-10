@@ -15,3 +15,5 @@ const consultaCep = async (cep) => {
 };
 
 consultaCep('36026460'); // Rua Barão de Aquino
+
+module.exports = { consultaCep };
