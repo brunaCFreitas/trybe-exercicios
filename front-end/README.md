@@ -7,8 +7,8 @@ Neste módulo estou aprendendo as técnicas e ferramentas mais atuais para desen
 ##### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
 
 - [x] 1-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 1-2: _JavaScript Fetch API e async/await_
-- [ ] 1-3: _Jest Testes Assíncronos_
+- [x] 1-2: _JavaScript Fetch API e async/await_
+- [x] 1-3: _Jest Testes Assíncronos_
 - [ ] 1-4: _[Projeto - Carrinho de Compras]()_
 
 ##### Sessão 2: Introdução - React
