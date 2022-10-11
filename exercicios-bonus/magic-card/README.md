@@ -1,4 +1,4 @@
-# Exercício MAgic Card
+# Exercício Magic Card
 
 Neste exercício do módulo de **Front-end** será usada uma API que retorna cartas do jogo de Magic: `The Gathering`.
 
