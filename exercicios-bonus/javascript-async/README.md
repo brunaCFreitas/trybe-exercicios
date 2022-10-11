@@ -11,4 +11,3 @@ Neste exercício do módulo de **Front-end** a proposta é utilizar as informaç
 
 - Mostrar somente as primeiras 10 moedas obtidas pela requisição.
 
-Como exercício bônus, o desafio foi converter o preço das criptomoedas em nossa moeda local (R$) Real utilizando uma nova API a [Currency API](https://github.com/fawazahmed0/currency-api#readme).
