@@ -7,4 +7,4 @@ Este repositório reune os exercícios **bônus** propostos pela [Trybe](https:/
 ##### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
 
 - Dia 2 - [JavaScript Async]()
-- Dia 3 - [Magic Card]()
+- Dia 3 - [Magic Card](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/magic-card)
