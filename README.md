@@ -77,9 +77,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-1: _JavaScript Assíncrono e Callbacks_
 - [x] 1-2: _JavaScript Fetch API e async/await_ 
 - [x] 1-3: _Jest Testes Assíncronos_
-- [ ] 1-4: _[Projeto - Carrinho de Compras]()_
+- [x] 1-4: _[Projeto - Carrinho de Compras]()_
 - [x] Exercicio Bônus - [Cryto Moedas](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/javascript-async)
-- [ ] Exercicio Bônus - [Magic Card]()
+- [x] Exercicio Bônus - [Magic Card](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/magic-card)
 
 ##### Sessão 2: Introdução - React
 
