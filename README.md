@@ -79,7 +79,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] Exercicio Bônus - [Cryto Moedas](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/javascript-async)
 - [x] 1-3: _Jest Testes Assíncronos_
 - [x] Exercicio Bônus - [Magic Card](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/magic-card)
-- [x] 1-4: _[Projeto - Carrinho de Compras]()_
+- [x] 1-4: _[Projeto - Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)_
 
 ##### Sessão 2: Introdução - React
 
