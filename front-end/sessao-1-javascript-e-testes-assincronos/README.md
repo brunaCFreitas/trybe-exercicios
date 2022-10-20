@@ -1,4 +1,4 @@
-# SEÇÃO 1 - JAVASCRIPT E TESTES ASSÍNCRONOS
+# SESSÃO 1 - JAVASCRIPT E TESTES ASSÍNCRONOS
 
 Nesse módulo, você vai aprender a utilizar o `React` para que, a partir do layout de uma aplicação web, desenvolva ela por completo: com CSS, testes e gerenciamento de estado.
 
