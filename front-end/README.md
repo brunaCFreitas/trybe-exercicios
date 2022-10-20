@@ -9,11 +9,11 @@ Neste módulo estou aprendendo as técnicas e ferramentas mais atuais para desen
 - [x] 1-1: _JavaScript Assíncrono e Callbacks_
 - [x] 1-2: _JavaScript Fetch API e async/await_
 - [x] 1-3: _Jest Testes Assíncronos_
-- [ ] 1-4: _[Projeto - Carrinho de Compras]()_
+- [x] 1-4: _[Projeto - Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)_
 
 ##### Sessão 2: Introdução - React
 
-- [ ] 2-1: _'Hello, world!' no React!_
+- [x] 2-1: _'Hello, world!' no React!_
 - [ ] 2-2: _Componentes React_
 - [ ] 2-3: _[Projeto - Solar System]()_
 
