@@ -6,7 +6,7 @@ Neste módulo estou aprendendo as técnicas e ferramentas mais atuais para desen
 
 ##### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
 
-- [Projeto - Carrinho de Compras
+- Projeto - Carrinho de Compras
 
 ##### Sessão 2: Introdução - React
 
