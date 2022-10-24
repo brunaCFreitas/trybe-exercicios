@@ -84,12 +84,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Sessão 2: Introdução - React
 
 - [x] 2-1: _'Hello, world!' no React!_
-- [ ] 2-2: _Componentes React_
-- [ ] 2-3: _[Projeto - Solar System]()_
+- [x] 2-2: _Componentes React_
+- [x] 2-3: _[Projeto - Solar System]()_
 
 ##### Sessão 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 3-1: _Components com estado e eventos_
+- [x] 3-1: _Components com estado e eventos_
 - [ ] 3-2: _Formulários no React_
 - [ ] 3-3: _[Projeto - Tryunfo]()_
 
