@@ -76,16 +76,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 1-1: _JavaScript Assíncrono e Callbacks_
 - [x] 1-2: _JavaScript Fetch API e async/await_ 
-- [x] Exercicio Bônus - [Cryto Moedas](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/javascript-async)
 - [x] 1-3: _Jest Testes Assíncronos_
-- [x] Exercicio Bônus - [Magic Card](https://github.com/brunaCFreitas/trybe-exercices/tree/main/exercicios-bonus/magic-card)
 - [x] 1-4: _[Projeto - Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)_
 
 ##### Sessão 2: Introdução - React
 
 - [x] 2-1: _'Hello, world!' no React!_
 - [x] 2-2: _Componentes React_
-- [x] 2-3: _[Projeto - Solar System]()_
+- [x] 2-3: _[Projeto - Solar System](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/solarSystem)_
 
 ##### Sessão 3: Componentes com Estado, Eventos e Formulários com React
 
