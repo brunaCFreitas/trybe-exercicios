@@ -12,4 +12,4 @@ Nesse módulo, você vai aprender a utilizar o `React` para que, a partir do lay
 
 ### Projeto da Sessão 1:
 
-- [x] [Carrinho de Compras]()
+- [x] [Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)
