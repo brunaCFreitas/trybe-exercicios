@@ -90,13 +90,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Sessão 3: Componentes com Estado, Eventos e Formulários com React
 
 - [x] 3-1: _Components com estado e eventos_
-- [ ] 3-2: _Formulários no React_
-- [ ] 3-3: _[Projeto - Tryunfo]()_
+- [x] 3-2: _Formulários no React_
+- [x] 3-3: _[Projeto - Tryunfo]()_
 
 ##### Sessão 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 4-1: _Ciclo de vida de componentes_
-- [ ] 4-2: _React Router_
+- [x] 4-1: _Ciclo de vida de componentes_
+- [x] 4-2: _React Router_
 - [ ] 4-3: _[Projeto - TrybeTunes]()_
 
 ##### Sessão 5: Metodologias Ágeis
