@@ -1,4 +1,4 @@
-# Dia 01 - JAVASCRIPT E TESTES ASSÍNCRONOS
+# DIA 1 - JAVASCRIPT E TESTES ASSÍNCRONOS
 
 Neste dia aprendemos sobre;
 
