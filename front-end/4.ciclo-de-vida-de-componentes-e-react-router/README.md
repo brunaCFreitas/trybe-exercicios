@@ -14,4 +14,6 @@ As fases do ciclo de vida de componentes:
 
 - E por fim, na fase de desmontagem,  chamar a função `componentWillUnmount` para realizar uma ação antes de o componente ser desmontado.
 
+### Projeto da Sessão 4:
 
+- [] [TrybeTunes]()
