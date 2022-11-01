@@ -1,4 +1,4 @@
-# Dia 02 - JAVASCRIPT ASSÍNCRONO - FETCH API E ASYNC/AWAIT
+# DIA 2 - JAVASCRIPT ASSÍNCRONO - FETCH API E ASYNC/AWAIT
 
 Neste dia aprendemos sobre a utilização de:
 
