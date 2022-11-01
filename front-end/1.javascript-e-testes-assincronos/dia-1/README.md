@@ -1,4 +1,4 @@
-# Dia 01 - JAVASCRIPT ASSÍNCRONO E CALLBACKS
+# Dia 01 - JAVASCRIPT E TESTES ASSÍNCRONOS
 
 Neste dia aprendemos sobre;
 
