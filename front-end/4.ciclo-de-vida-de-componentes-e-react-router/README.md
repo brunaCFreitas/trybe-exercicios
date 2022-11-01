@@ -16,4 +16,4 @@ As fases do ciclo de vida de componentes:
 
 ### Projeto da Sessão 4:
 
-- [] [TrybeTunes]()
+- [ ] [TrybeTunes]()
