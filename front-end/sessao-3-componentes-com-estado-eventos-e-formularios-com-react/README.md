@@ -1,4 +1,4 @@
-# SESSÃO 3 - INTRODUÇÃO AO REACT
+# SESSÃO 3 - COMPONENTES COM ESTADO, EVENTOS E FORMULÁRIOS COM REACT
 
 Nesta sessão aprendemos os conceitos de `Estado do componente`.
 
