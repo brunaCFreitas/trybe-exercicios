@@ -15,4 +15,4 @@
 
 - Testes Automatizados com React Testing Library
 
-- Gerenciamento de Estado Global
+- Gerenciamento de Estado Global - Redux
