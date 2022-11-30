@@ -9,7 +9,3 @@ Nesse módulo, você vai aprender a utilizar o `React` para que, a partir do lay
 - Trabalhar em equipe utilizando a metodologia SCRUM.
 - Testar as aplicações utilizando React Testing Library (RTL).
 - Administrar todo estado das aplicações React utilizando Redux.
-
-### Projeto da Sessão 1:
-
-- [x] [Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)
