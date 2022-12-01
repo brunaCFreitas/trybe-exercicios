@@ -1,4 +1,4 @@
-# FRONT-END
+# FRONTEND
 
 ### O que vamos aprender no módulo de front-end?
 
