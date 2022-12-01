@@ -1,6 +1,6 @@
 # FRONTEND
 
-### O que vamos aprender no módulo de front-end?
+### O que vamos aprender no módulo de frontend?
 
 - Configuração de ambiente e javascript assíncrono
 
