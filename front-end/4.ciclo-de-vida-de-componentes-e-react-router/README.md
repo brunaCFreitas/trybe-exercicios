@@ -13,7 +13,3 @@ As fases do ciclo de vida de componentes:
 - A fase de **update** do componente, que existe ao realizarmos mudanças no state por exemplo, a função `componentDidUpdate`irá executar uma ação após o componente ser atualizado;
 
 - E por fim, na fase de desmontagem,  chamar a função `componentWillUnmount` para realizar uma ação antes de o componente ser desmontado.
-
-### Projeto da Sessão 4:
-
-- [ ] [TrybeTunes]()

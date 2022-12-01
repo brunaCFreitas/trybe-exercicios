@@ -17,7 +17,3 @@ Além disso, vimos também a criação de `Formulários em React`, onde utilizam
 - Criar formulários utilizando sintaxe JSX com as tags: input, textarea, select, form.
 
 - Transmitir informações de componentes filhos para componentes pais via callbacks.
-
-### Projeto da Sessão 3:
-
-- [x] [Tryunfo]()
