@@ -1,0 +1,3 @@
+# DIA 2 - USANDO REDUX COM REACT
+
+Em andamento.
