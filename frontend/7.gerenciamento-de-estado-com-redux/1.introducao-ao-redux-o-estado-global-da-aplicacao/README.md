@@ -1,8 +1,10 @@
 # DIA 1 - INTRODUÇÃO AO REDUX - O ESTADO GLOBAL DA APLICAÇÃO
 
-Neste dia aprendemos conceitos básicos do `Redux`, além de suas configurações.
+- Neste dia aprendemos conceitos básicos do `Redux`, além de suas configurações.
 
-Utilizamos o JavaScript puro para a aplicação destes conceitos, o que praticamos:
+Utilizamos o `JavaScript puro` para a aplicação destes conceitos.
+
+## O que praticamos:
 
 * Criação uma `store` para armazenar o estado de uma aplicação;
 
