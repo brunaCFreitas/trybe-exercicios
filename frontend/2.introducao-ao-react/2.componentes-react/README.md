@@ -1,14 +1,10 @@
 # DIA 2 - COMPONENTES REACT
 
-Neste dia aprendemos a criar **componentes** em `React`.
-
 ### O que aprendemos:
 
-- A criar de modo correto os `componentes React`.
+- Criar `componentes React`.
 
-- Fazer uso de **props** corretamente.
-
-- Fazer composição de componentes corretamente.
+- Fazer uso de **props**.
 
 - Criar múltiplos componentes dinamicamente.
 
