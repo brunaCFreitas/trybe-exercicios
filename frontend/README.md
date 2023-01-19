@@ -5,11 +5,11 @@
 - Configuração de ambiente e javascript assíncrono
 
 - React
-  - Fundamentos
+  - Fundamentos: Componentes de classe e funcionais
   - Estado, Props e Ciclo de Vida
-  - Formulários
-  - Context API
+  - Formulários controlados
   - Hooks
+  - Context API
 
 - Metodologias Ágeis
 
