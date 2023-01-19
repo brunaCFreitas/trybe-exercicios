@@ -1,8 +1,6 @@
 # DIA 1 - COMPONENTES COM ESTADO E EVENTOS
 
-  Neste dia aprendemos sobre os `Estados de componente` e `Eventos`.
-
-  As habilidades desenvolvidas foram:
+  ## Conhecimentos trabalhados:
 
 - Ler o estado de um componente e usá-lo para alterar o que exibimos no browser;
 
@@ -12,7 +10,7 @@
 
 - Capturar eventos utilizando a sintaxe do React.
 
-Conceitos importantes como;
+Conceitos importantes como:
 
 - **constructor()**
 - **super()**
