@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS]()_
+- [x] 3-5: _[Projeto - Lições Aprendidas](https://github.com/brunaCFreitas/trybe-project-lessons-learned/tree/5ea84f22a4ed1cc35ce8ae7987e5cf21764d8f5c)_
 
 ##### Sessão 4: Introdução - JavaScript
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/brunaCFreitas/trybe-projects-playground-functions/tree/f80f4378caad59a5e6e58f4f1bf960e533323353)_
 
 ##### Sessão 5: JavaScript - DOM, Eventos e Web Storage
 
@@ -41,10 +41,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-5: _[Projeto - Gerador de Memes](https://github.com/brunaCFreitas/trybe-projects-meme-generator/tree/298329f44b601243f05bed0d0e6b206a363d838d)_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/brunaCFreitas/trybe-projects-pixels-art/tree/adf5f68cd06426e9709ba455bf18762d3200829a)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/brunaCFreitas/trybe-projects-todo-list/tree/369d42635cf162e85a1077552292a96367c05691)_
+- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/brunaCFreitas/trybe-projects-color-guess/tree/399d653b121b5702449e26dbea3d441bd7ecd849)_
 
 ##### Sessão 6: HTML & CSS: Forms, Flexbox e Responsivo
 
@@ -53,14 +53,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybe Warts]()_
+- [x] 6-6: _[Projeto - Trybe Warts](https://github.com/brunaCFreitas/trybe-projects-trybewarts/tree/8300b2b936d37403834423871a5300c06ae2eb09)_
 
 ##### Sessão 7: JavaScript ES6 & Testes Unitários
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/brunaCFreitas/trybe-projects-js-unit-tests/tree/34dd87d9aa2731f936d4a27a8d33fd266fb5f25b)_
 
 ##### Sessão 8: JavaScript ES6 - Higer Order Functions
 
@@ -68,7 +68,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-5: _[Projeto - Zoo functions](https://github.com/brunaCFreitas/trybe-projects-zoo-functions/tree/9cebcc5a1976590ea806862d7298bcaae6882ed4)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
