@@ -1,10 +1,14 @@
 # SESSÃO 4 - CICLO DE VIDA DE COMPONENTES E REACT ROUTER 
 
-Nesta sessão aprendemos os conceitos de `Lifecycle` ou ciclo de vida de um componente e as funções responsáveis pelas ações em cada fase deste ciclo.
+## Nesta sessão aprendemos os conceitos:
 
-Aprendemos também sobre `React Routes`.
+1- `Lifecycle`, ou ciclo de vida, de um componente e as funções responsáveis pelas ações em cada fase deste ciclo.
 
-As fases do ciclo de vida de componentes:
+- componentDidMount();
+- componentDidUpdate();
+- componentWillUnmount();
+
+### As fases do ciclo de vida de componentes:
 
 - A fase de montagem do componente e o uso da função `componentDidMount` responsável por executar uma ação após o componente ser inserido no **DOM**;
 
@@ -13,3 +17,13 @@ As fases do ciclo de vida de componentes:
 - A fase de **update** do componente, que existe ao realizarmos mudanças no state por exemplo, a função `componentDidUpdate`irá executar uma ação após o componente ser atualizado;
 
 - E por fim, na fase de desmontagem,  chamar a função `componentWillUnmount` para realizar uma ação antes de o componente ser desmontado.
+
+2- `React Router`
+
+- React Router DOM
+- *BrowserRouter*
+- *Route*
+- *Link*
+- *Switch*
+- *Redirect*
+- *history.push()*
