@@ -1,11 +1,21 @@
 # SESSÃO 9 - Context API e React Hooks
 
+- Nesta sessão vamos manipular os **estados** utilizando as `Hooks`e o `Context API` que são recursos do próprio `REACT`.
+
+## Nesta sessão aprendemos:
+
+- As principais `Hooks`: *useState()* e *useEffect()*.
+- Context API
+- Custom Hooks
+
+### Contextualizando: 
+
 Existem duas formas de se criar um componente React:
 
 * Definindo uma *classe* que estende a classe React.Component.
 * Definindo uma *função* que retorna o que é renderizado.
 
-Mas, qual é a **diferença** entre essas duas formas?
+- Mas, qual é a **diferença** entre essas duas formas?
 
 A *classe* te dá mais ferramentas, entretanto, é um pouco mais complicada de se criar.
 
