@@ -1,5 +1,9 @@
 # SESSÃO 2 - INTRODUÇÃO AO REACT
 
-Os conceitos do `React`serão abordados, assim como sua história de criação e o porque da adoção massiva da tenologia por grandes empresas nos últimos anos.
+Nesta sessão aprendemos os conceitos iniciais sobre o `REACT`.
 
-Entender as diferenças entre `React`e `JavaScript`, além de conhecer as **classes**.
+O `REACT` é uma biblioteca *JavaScript* criada pelo **Facebook** para o desenvolvimento de aplicações *front-end*. Ele é baseado em **componentes**, o que permite o reaproveitamento de código e facilita a manutenção. 
+
+No padrão de arquitetura **MVC** — *Model View Control* — ou *Modelo Visão Controle*, em português, ele é comparado ao desenvolvimento da camada *View*, que é a interface com o usuário (UI).
+
+Aprendemos sua arquitetura principal e a criar componentes.
