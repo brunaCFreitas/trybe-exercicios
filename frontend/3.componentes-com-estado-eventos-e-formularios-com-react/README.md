@@ -2,7 +2,7 @@
 
 Nesta sessão aprendemos os conceitos de `Estado do componente`.
 
-## Nesta sessão aprendemos: 
+## o que vimos:
 
 - Ler o estado de um componente e usá-lo para alterar o que exibimos no browser;
 
