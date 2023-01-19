@@ -164,7 +164,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-3: _Node.js - Testes de Integração_
 - [ ] 4-3: _Node.js - Express e Middlewares_
 - [ ] 4-3: _Node.js - Express e MySQL_
-- [ ] 4-4: _[Projeto - Talker Manager()_
+- [ ] 4-4: _[Projeto - Talker Manager]()_
 
 ##### Sessão 5: Arquitetura de Software - Model, Service e Controller
 
