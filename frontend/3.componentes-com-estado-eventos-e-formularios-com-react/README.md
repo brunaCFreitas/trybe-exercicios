@@ -2,7 +2,7 @@
 
 Nesta sessão aprendemos os conceitos de `Estado do componente`.
 
-### As habilidades desenvolvidas foram:
+## Nesta sessão aprendemos: 
 
 - Ler o estado de um componente e usá-lo para alterar o que exibimos no browser;
 
@@ -12,7 +12,7 @@ Nesta sessão aprendemos os conceitos de `Estado do componente`.
 
 - Capturar eventos utilizando a sintaxe do React.
 
-Além disso, vimos também a criação de `Formulários em React`, onde utilizamos os conhecimentos de captura de eventos para a criação de forma controlada pelo **React**.
+Além disso, vimos também a criação de `Formulários em React`, onde utilizamos os conhecimentos de **captura de eventos** para realizar a criação do formulario e seus inputs de forma controlada pelo **React**.
 
 - Criar formulários utilizando sintaxe JSX com as tags: input, textarea, select, form.
 
