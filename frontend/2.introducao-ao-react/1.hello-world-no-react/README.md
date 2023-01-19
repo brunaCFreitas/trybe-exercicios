@@ -12,9 +12,9 @@ O React é a **principal** biblioteca de construção de UI’s *atualmente*. E 
 
 A lista acima mostra algumas das tecnologias que fazem parte desse ecossistema e que te permitem criar aplicações Web de alta qualidade.
 
-## No final deste dia serei capaz de:
+## Neste dia aprendemos:
 
-- Saber a melhor forma para instalar um *gerenciador de pacotes*;
+- Instalar um *gerenciador de pacotes*;
 
 - Inicializar um projeto em `React`;
 
