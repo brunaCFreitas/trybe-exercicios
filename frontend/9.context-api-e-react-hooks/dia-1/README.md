@@ -6,4 +6,4 @@ De forma objetiva, *Hooks* são **funções**. Todo e qualquer Hook sempre dever
 
 Por exemplo, podemos “enganchar” **gerenciamento de estado** com o Hook `useState` e **gerenciar o ciclo de vida** do componente com o Hook `useEffect`.
 
-Hoje vamos aprender a utilizar esses principais Hooks em nossas aplicaões `React`.
+- Neste dia aprendemos a utilizar esses principais Hooks em nossas aplicações `React`.
