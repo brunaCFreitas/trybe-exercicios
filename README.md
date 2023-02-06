@@ -70,7 +70,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-5: _[Projeto - Zoo functions](https://github.com/brunaCFreitas/trybe-projects-zoo-functions/tree/9cebcc5a1976590ea806862d7298bcaae6882ed4)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
 
@@ -127,11 +127,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-1: _Context API do React_
 - [X] 9-2: _React Hooks - useState e useContext_
 - [X] 9-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Sessão 10: Projeto App de Receitas
 
-- [ ] 10-1: _[Projeto - App de Receitas]()_
+- [X] 10-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
