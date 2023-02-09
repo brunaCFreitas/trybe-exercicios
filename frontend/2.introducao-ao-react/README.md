@@ -1,6 +1,6 @@
-# SESSÃO 2 - INTRODUÇÃO AO REACT
+# SEÇÃO 2 - INTRODUÇÃO AO REACT
 
-Nesta sessão aprendemos os conceitos iniciais sobre o `REACT`.
+Nesta seção aprendemos os conceitos iniciais sobre o `REACT`.
 
 O `REACT` é uma biblioteca *JavaScript* criada pelo **Facebook** para o desenvolvimento de aplicações *front-end*. Ele é baseado em **componentes**, o que permite o reaproveitamento de código e facilita a manutenção. 
 

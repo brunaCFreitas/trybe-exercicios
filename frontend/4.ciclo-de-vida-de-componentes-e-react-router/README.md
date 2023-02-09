@@ -1,6 +1,6 @@
-# SESSÃO 4 - CICLO DE VIDA DE COMPONENTES E REACT ROUTER 
+# SEÇÃO 4 - CICLO DE VIDA DE COMPONENTES E REACT ROUTER 
 
-## Nesta sessão aprendemos os conceitos:
+## Nesta seção aprendemos os conceitos:
 
 1- `Lifecycle`, ou ciclo de vida, de um componente e as funções responsáveis pelas ações em cada fase deste ciclo.
 

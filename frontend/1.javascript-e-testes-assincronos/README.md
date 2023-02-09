@@ -1,6 +1,6 @@
-# SESSÃO 1 - JAVASCRIPT E TESTES ASSÍNCRONOS
+# SEÇÃO 1 - JAVASCRIPT E TESTES ASSÍNCRONOS
 
-Neste dia aprendemos sobre um conceito muito importante, que é a base de praticamente todas as aplicações web: **assincronicidade** (ou códigos assíncronos).
+Nesta seção aprendemos sobre um conceito muito importante, que é a base de praticamente todas as aplicações web: **assincronicidade** (ou códigos assíncronos).
 
 É muito comum precisarmos fazer **requisições externas** ou lidar com algum **recurso do navegador**, para isso será necessário usar um **código assíncrono**. A forma mais comum de lidar com códigos assíncronos em Javascript é usando `Promises`, um recurso poderoso da linguagem, e, por isso, amplamente usado.
 

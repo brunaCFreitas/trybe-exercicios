@@ -1,6 +1,6 @@
-# SESSÃO 6 - TESTES AUTOMATIZADOS COM REACT TESTING LIBRARY
+# SEÇÃO 6 - TESTES AUTOMATIZADOS COM REACT TESTING LIBRARY
 
-## Nesta sessão aprendemos:
+## Nesta seção aprendemos:
 
 - Como utlizar a `React Testing Library`, uma biblioteca de testes do React.
 - Testar eventos

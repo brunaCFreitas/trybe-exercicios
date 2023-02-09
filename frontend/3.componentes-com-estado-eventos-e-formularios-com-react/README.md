@@ -1,6 +1,6 @@
-# SESSÃO 3 - COMPONENTES COM ESTADO, EVENTOS E FORMULÁRIOS COM REACT
+# SEÇÃO 3 - COMPONENTES COM ESTADO, EVENTOS E FORMULÁRIOS COM REACT
 
-Nesta sessão aprendemos os conceitos de `Estado do componente`.
+Nesta seção aprendemos os conceitos de `Estado do componente`.
 
 ## o que vimos:
 

@@ -1,6 +1,6 @@
-# SESSÃO 5 - METODOLOGIAS ÁGEIS
+# SEÇÃO 5 - METODOLOGIAS ÁGEIS
 
-Nesta sessão do módulo de `Frontend` iniciamos o aprendizado em metodologias ágeis.
+Nesta seção do módulo de `Frontend` iniciamos o aprendizado em metodologias ágeis.
 
 Os `métodos ágeis` são uma alternativa à gestão tradicional de projetos. Eles nasceram nos braços do desenvolvimento de software, mas hoje são aplicados a qualquer tipo de projeto. Esses métodos vêm ajudando muitas equipes a encarar as imprevisibilidades de um projeto por meio de entregas **incrementais e ciclos iterativos**.
 
@@ -8,7 +8,7 @@ Os `métodos ágeis` buscam promover um processo de gerenciamento de projetos qu
 
 Basicamente, os `métodos ágeis` são um conjunto de práticas eficazes que se destinam a permitir a entrega rápida e de alta qualidade do produto, tendo uma abordagem de negócios que alinha o desenvolvimento do projeto com as necessidades do cliente e os objetivos da empresa.
 
-Conceitos abordados nessa sessão: 
+Conceitos abordados nessa seção: 
 
 * Manifesto Ágil:
 
