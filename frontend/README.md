@@ -1,11 +1,11 @@
 # FRONTEND
 
-### O que vamos aprender no módulo de frontend?
+### O que aprendi no módulo de frontend?
 
-- Configuração de ambiente e javascript assíncrono
+- Configuração de ambiente e javascript `assíncrono`.
 
 - React
-  - Fundamentos: Componentes de classe e funcionais
+  - Fundamentos: Componentes de `classe` e `funcionais`
   - Estado, Props e Ciclo de Vida
   - Formulários controlados
   - Hooks
