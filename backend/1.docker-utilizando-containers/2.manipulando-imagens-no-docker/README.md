@@ -1,7 +1,5 @@
 # DIA 2 - MANIPULAÇÃO E CRIAÇÃO DE IMAGENS NO DOCKER
 
-
-
 Este dia tinha como **objetivo** a compreensão de cada comando de *Docker*, seu uso e suas relações.
 
 Aprendemos também a criar `imagens` *Docker* para nossas aplicações utilizando os padrões e as boas práticas do mercado.
