@@ -1,0 +1,1 @@
+# DIA 3 - Transformando ideias em um modelo de bancoi de dados
