@@ -145,16 +145,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Introdução à SQL
 
 - [X] 2-1: _Banco de dados SQL_
-- [ ] 2-2: _Encontrando dados em um banco de dados_
-- [ ] 2-3: _Filtrando dados de forma específica_
-- [ ] 2-4: _Manipulando tabelas_
-- [ ] 2-5: _[Projeto - All For One]()_
+- [X] 2-2: _Encontrando dados em um banco de dados_
+- [X] 2-3: _Filtrando dados de forma específica_
+- [X] 2-4: _Manipulando tabelas_
+- [X] 2-5: _[Projeto - All For One]()_
 
 ##### Seção 3: Funções SQL, JOINs e Normalização
 
-- [ ] 3-1: _Funções mais usadas no SQL_
-- [ ] 3-2: _Descomplicando JOINs_
-- [ ] 3-3: _Transformando ideias em um modelo de banco de dados_
+- [X] 3-1: _Funções mais usadas no SQL_
+- [X] 3-2: _Descomplicando JOINs_
+- [X] 3-3: _Transformando ideias em um modelo de banco de dados_
 - [ ] 3-4: _[Projeto - Aula ao vivo + One For All]()_
 
 ##### Seção 4: Introdução ao desenvolvimento Web com Node.js
