@@ -1,4 +1,4 @@
-# SESSÃO 2 - Introdução à SQL
+# SEÇÃO 2 - Introdução à SQL
 
 **1º Dia** - `Banco de Dados SQL`
 Como instalar um banco de dados e seus conceitos mais importantes.

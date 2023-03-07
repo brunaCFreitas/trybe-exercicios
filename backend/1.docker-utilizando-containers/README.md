@@ -1,4 +1,4 @@
-# SESSÃO 1 - DOCKER: Utilizando containers
+# SEÇÃO 1 - DOCKER: Utilizando containers
 
 ### **1º Dia** - `Utilizando containers Docker`
 

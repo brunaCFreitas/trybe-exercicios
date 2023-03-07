@@ -1,4 +1,4 @@
-# SESSÃO 3 - Funções SQL, JOINs e Normalização
+# SEÇÃO 3 - Funções SQL, JOINs e Normalização
 
 **1º Dia** - `Funções mais usadas no SQL`
 
