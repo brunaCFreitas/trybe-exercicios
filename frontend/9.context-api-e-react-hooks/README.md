@@ -1,4 +1,4 @@
-# SESSÃO 9 - Context API e React Hooks
+# SEÇÃO 9 - Context API e React Hooks
 
 - Nesta seção vamos manipular os **estados** utilizando as `Hooks`e o `Context API` que são recursos do próprio `REACT`.
 

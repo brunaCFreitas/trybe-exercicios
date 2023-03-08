@@ -1,4 +1,4 @@
-# SESSÃO 8 - Projeto Jogo de Trivia
+# SEÇÃO 8 - Projeto Jogo de Trivia
 
 ## Projeto em grupo
 
