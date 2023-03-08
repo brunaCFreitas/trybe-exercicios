@@ -11,7 +11,7 @@ function handleBMI(weight, height) {
   return bmi;
 }
 
-const weigh = readline.questionInt('Weight: ');
+const weigh = readline.questionFloat('Weight: ');
 const height = readline.questionInt('Height: ');
 
 const bmi = handleBMI(weigh, height);
