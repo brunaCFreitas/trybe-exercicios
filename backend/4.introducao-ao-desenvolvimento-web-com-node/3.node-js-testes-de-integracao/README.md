@@ -1,4 +1,4 @@
-# DIA 3 -  Node.js: Testes de Inbtegração
+# DIA 3 -  Node.js: Testes de Integração
 
 Hoje, vamos estudar um pouco mais sobre **testes** e nos aprofundar em como aplicá-los em nossas **APIs Express**. Você também vai rever os benefícios de escrever testes automatizados.
 
