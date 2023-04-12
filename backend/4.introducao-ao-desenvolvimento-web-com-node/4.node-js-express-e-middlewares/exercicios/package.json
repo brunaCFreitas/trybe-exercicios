@@ -1,0 +1,17 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "exercicio do dia",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Bruna Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "^2.0.22"
+  }
+}
