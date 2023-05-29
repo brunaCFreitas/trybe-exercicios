@@ -1,6 +1,6 @@
 # BACKEND
 
-## O que irei aprender neste módulo?
+## O que aprendi neste módulo?
 
 * Docker
   Configurar e colocar em um `container` as aplicações;
