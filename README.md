@@ -133,7 +133,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 10-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :heavy_check_mark:
 
 ##### Seção 1: Docker - Utilizando Containers
 
@@ -162,9 +162,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-1: _Node.js - Runtime Assíncrono_
 - [X] 4-2: _Node.js - API REST com Express_
 - [X] 4-3: _Node.js - Testes de Integração_
-- [X] 4-3: _Node.js - Express e Middlewares_
-- [X] 4-3: _Node.js - Express e MySQL_
-- [X] 4-4: _[Projeto - Talker Manager]()_
+- [X] 4-4: _Node.js - Express e Middlewares_
+- [X] 4-5: _Node.js - Express e MySQL_
+- [X] 4-6: _[Projeto - Talker Manager]()_
 
 ##### Seção 5: Arquitetura de Software - Model, Service e Controller
 
@@ -179,97 +179,59 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-2: _ORM - Associations 1:1 e 1:N_
 - [X] 6-3: _ORM - Associations N:N e Transactions_
 - [X] 6-4: _JWT - (JSON Web Token)_
-- [ ] 6-5: _[Projeto - API de Blogs]()_
+- [X] 6-5: _[Projeto - API de Blogs]()_
 
 ##### Seção 7: Deployment
 
-- [ ] 7-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 7-2: _Deploy Docker & Heroku_
-- [ ] 7-3: _[Projeto - Stranger Things]()_
+- [X] 7-1: _Infraestrutura - Deploy com Railway_
 
 ##### Seção 8: Introdução a TypeScript
 
-- [ ] 8-1: _Introdução ao TypeScript_
-- [ ] 8-2: _Tipagem Estática e Generics_
-- [ ] 8-3: _Express com TypeScript_
-- [ ] 8-4: _[Projeto - Trybesmith]()_
+- [X] 8-1: _Introdução ao TypeScript_
+- [X] 8-2: _Tipagem Estática e Generics_
+- [X] 8-3: _Express com TypeScript_
+- [X] 8-4: _[Projeto - Trybesmith]()_
 
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 9-1: _Introdução à Orientação a Objetos_
-- [ ] 9-2: _Herança e Interfaces_
-- [ ] 9-3: _Polimorfismo_
-- [ ] 9-4: _SOLID - Introdução e Princípios S, O e D_
-- [ ] 9-5: _SOLID - Princípios L e I_
-- [ ] 9-6: _[Projeto - Trybers and Dragons]()_
+- [X] 9-1: _Introdução à Orientação a Objetos_
+- [X] 9-2: _Herança e Composição_
+- [X] 9-3: _Polimorfismo_
+- [X] 9-4: _SOLID - Introdução e Princípios S, O e D_
+- [X] 9-5: _SOLID - Princípios L e I_
+- [X] 9-6: _[Projeto - Trybers and Dragons]()_
 
 ##### Seção 10: Projeto TFC - Trybe Futebol Clube
 
-- [ ] 10-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [X] 10-1: _[Projeto - TFC - Trybe Futebol Clube]()_
 
-##### Seção 11: Introdução ao MongoDB
+##### Bônus: Projeto App de Delivery
 
-- [ ] 11-1: _MongoDB - Introdução_
-- [ ] 11-2: _Filter Operators_
-- [ ] 11-3: _Operadores de consulta_
-- [ ] 11-4: _Updates Simples_
-- [ ] 11-5: _Updates Complexos - Arrays_
-- [ ] 11-6: _[Projeto - Commerce]()_
-
-##### Seção 12: MongoDB com Node.js POO
-
-- [ ] 12-1: _Mongoose e arquitetura MSC (Camada Model)_
-- [ ] 12-2: _Mongoose e arquitetura MSC (Camada Service e Controller)_
-- [ ] 12-3: _[Projeto - Car Shop]()_
-
-##### Seção 13: Projeto App de Delivery
-
-- [ ] 13-1: _[Projeto - App de Delivery]()_
-
-##### Seção 14: MasterClass - VPS, CI/CD
-
-- [ ] 14-1: _VPS_
-- [ ] 14-2: _Dia 2_
+- [X] _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Seção 1: Introdução - Python
+##### Seção 1: Introdução à Python
 
-- [ ] 1-1: _Aprendendo Python_
-- [ ] 1-2: _Entrada e Saída de Dados_
-- [ ] 1-3: _Testes_
-- [ ] 1-4: _[Projeto - Job Insights]()_
+- [X] 1-1: _Aprendendo Python_
+- [X] 1-2: _Entrada e Saída de Dados com Testes_
 
-##### Seção 2: Padrões de Projetos
+##### Seção 2: Algoritmos
 
-- [ ] 2-1: _P.O.O em Python_
-- [ ] 2-2: _Padrões - Iterator, Adapter, Strategy_
-- [ ] 2-3: _Padrões - Decorator, Observer, Factory_
-- [ ] 2-4: _[Projeto - Relatórios de Estoque]()_
+- [X] 2-1: _Complexidade de Algoritmos_
+- [ ] 2-2: _Recursividade e Estratégias para Solução de Problemas_
+- [ ] 2-3: _Algoritmos de ordenação e busca_
+- [ ] 2-4: _[Projeto - Algoritmos]()_
 
-##### Seção 3: Redes e Raspagem de Dados
+##### Seção 3: Estrutura de Dados I: Listas Lineares
 
-- [ ] 3-1: _Arquitetura de redes_
-- [ ] 3-2: _Raspagem de Dados_
-- [ ] 3-3: _Outras Ferramentas de Raspagem de Dados_
-- [ ] 3-4: _[Projeto - Tech news]()_
+- [ ] 3-1: _P.O.O em Python_
+- [ ] 3-2: _Arrays_
+- [ ] 3-3: _Nó e Listas Encadeadas_
+- [ ] 3-4: _Pilhas e Filas_
+- [ ] 3-4: _[Projeto - TING - Trybe Is Not Google]()_
 
-##### Seção 4: Algoritmos
-
-- [ ] 4-1: _Complexidade de Alghoritmos_
-- [ ] 4-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 4-3: _Algoritmos de ordenação e busca_
-- [ ] 4-4: _[Projeto - Algoritmos]()_
-
-##### Seção 5: Estrutura de Dados I - Arrays, Listas, Filas e Pilhas
-
-- [ ] 5-1: _Arquitetura de Computadores_
-- [ ] 5-2: _Arrays_
-- [ ] 5-3: _Nó e Listas Encadeadas_
-- [ ] 5-4: _Pilhas e Filas_
-- [ ] 5-5: _[Projeto - TING - Trybe Is Not Google]()_
-
-##### Seção 6: Estrutura de Dados II - Hashmaps e Sets
+##### Seção 4: Estrutura de Dados II - Hashmaps e Sets
 
 - [ ] 6-1: _Hashmap e Dict_
 - [ ] 6-2: _Set_
