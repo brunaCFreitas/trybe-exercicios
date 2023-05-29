@@ -1,1 +1,0 @@
-# SEÇÃO 11 - INTRODUÇÃO AO MONGODB
