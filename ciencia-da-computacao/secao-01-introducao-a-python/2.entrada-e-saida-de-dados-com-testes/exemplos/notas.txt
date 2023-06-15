@@ -1,0 +1,10 @@
+João, 5.0
+Maria, 10.0
+José, 4.0
+Paulo, 6.0
+Ana, 7.0
+Carlos, 8.0
+Marta, 9.0
+Lucas, 3.0
+Pedro, 2.0
+Juliana, 1.0
