@@ -44,7 +44,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-5: _[Projeto - Gerador de Memes](https://github.com/brunaCFreitas/Projeto-Meme-Generator)
 - [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/brunaCFreitas/Projeto-Pixels-Art)
 - [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/brunaCFreitas/Projeto-To-Do-List)
-- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/brunaCFreitas/Projeto-Color-Guess)
 
 ##### Seção 6: HTML & CSS: Forms, Flexbox e Responsivo
 
